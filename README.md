@@ -1,4 +1,4 @@
-# Desafio-Trunks
+# Desafio-Tunts
 Coding exercise by Tunts, for their Internship program.
 
 ## How to run it
