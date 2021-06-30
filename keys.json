@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "desafio-trunks",
+  "private_key_id": "bfb23d98c883cdf2d54186e4356196664fa349ab",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDDXDGj5afWb5c8\nzgHct22UyQxvyvbQmUwvHIBGWPsgMkg152buGadtp3WRRKBfH8ReAvdDy28qZFKl\n1RqEfzkljawJWCJhyV7+mndKMS6+EDbfkx8j+zUZZKmHG574hcg6lNWsaxzJT57G\nL4PVwUD+OXzi7APD+uw+S1XeEhM/bwU0KeIZYpZImIf4ew0zZsI+EKwOQhGWnHd8\ncP6mF/rL8GxpURSktmEaSrlon3fjWHFuut/oW8oXHAbDzlDKqLpOWfJGM+RwRhJQ\nDxEmkCF246c7tMVI3hsJQMY8rAme0D/gk/ADZWVP4n0gDrKQ4+8eIwtxdF5tn7D3\nLUK40mlTAgMBAAECggEACJVi6vgatT3G79l/VHLMwkZJIRpSWNz7b3B5pF2hfwsm\niBPIPnrrE9LRRBY3U6aiKp1HvvdPxZWN2hJwbVTnrmI4plp0fEZsQZSI3D4n9xrg\nRleA/UQ604hMOI76n6HFJ+nFL6OvKpswdzW8PaaVk/XzqkbDbZd3TM9jkPPLW7SR\n3LKeYBkLwZuBXH7iiAwBq9zJJfbwVaO60jNfjrcsfGBZIBxCnMHBd3Q6BVjVgpwD\n183pgSMeo/asZDCigOgG10kHmovX/kfmMXz5FpYi/dqQmstQOlTiOWrPZre/m5XV\n5tlvW0aU6eYulB2nRxLpYeyxalZ+Vvq8NOTSLPTuRQKBgQDu09URlp7QI/Snsr4T\nowxFvjDdlkHW16b8yLd/ATAdmPcZsxt3wjO41jC8J0nvlyAExoUFswWs0Mh4n2n/\nBn6q2VhM0GZOwkXX1AQM0X2//+bPVRESG3PSdkskuAeB//MMTJSNv03E9WE3Dwls\nJ3syZrlOXbBQjrFFfbtPv0FzxwKBgQDRaD7ZP6YjKvk6HDKuiOHS4bee7VjLyU9/\nmRSaQ1tr+ZnW9etnAdxi5umgp6Glr4Y4Tvjhid+UiE9YXf/if7SNI9kpCCTt/rxO\nzyde4EamRxAvCin86SBxiD5Ti+tm6yYmDFgXkU+p6ZaGGHfLFMzCJ3hgqI4pkSIl\nReDOf9jGFQKBgQCcyGV0oWtqemAvAvEzFPOGiV+s5+oa7wFJqz6C2rXKiFOXBHSA\nvvWTXtEpg6VO6ufzGpvS7P5Jv9oLDaPY7luTLxF/g8PV6kVNdXqfK5ugwo60B0Uo\nnOsA+/VCiqkrF2pn5ZIUJ8UXCnsiWPW3kYeXw8Xcgzau+622T976cDS4mwKBgB9L\nVukci/WBfJFkmWZf6m+bb9d+XODHiuvksqGDI2x1drobMjzImGjnXU62/n9GReaw\nVp1N/22xGTp5gb4Vm6PkEZYCM5KlmPqmFpolJim/QPnmqPO02zZcSAQwStOsnJzf\nB2MuQhuAXxBXI7/jsd3qDCFVzzkDCXlMghYaIQkpAoGAN7j7OG0Yk237oZLGkOGq\nUH2eFxXWw/OCWRICHaS+6HlOsDXmXOVZAJNhmw6ae0tc1ee1CXRWdcBtwl2hGzSZ\nPPk7chfzGPCSypzAF9IUSZJQ+v010XrnnsratCeZigXoVnRVfbwMG1Y3uN8O0QOd\n7COu3G1P4ovUICuc/0v4oiw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "leonardo-meireles@desafio-trunks.iam.gserviceaccount.com",
+  "client_id": "106304842446957301563",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/leonardo-meireles%40desafio-trunks.iam.gserviceaccount.com"
+}
